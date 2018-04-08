@@ -1,7 +1,7 @@
 ## Evaluators note
 
 In this repository you will find 5 R scripts and 4 png files:
-* ***loadData.R*** this script assumes that the file household_power_consumption.txt is in the working directory, loads the file and produces a smalldata table to allow scripts that produce graphics work, is required to run this script first.
+* ***loadData.R*** this script assumes that the file household_power_consumption.txt is in the working directory, loads the file and produces a smalldata table to allow scripts that produces graphics files, is required to run this script first.
 * ***plot1.R*** produces plot1.png file
 * ***plot2.R*** produces plot2.png file
 * ***plot3.R*** produces plot3.png file
