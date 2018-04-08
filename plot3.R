@@ -2,7 +2,7 @@ print("Generating Plot 3")
 ## Generating Plot 
 with(smalldata, {
   plot(DateTime, Sub_metering_1,  type = "l", 
-       ylab = "Global Active Power (KiloWatts)", xlab = "")
+       ylab = "Energy sub metering", xlab = "")
   lines(DateTime, Sub_metering_2,  col = 'Red')
   lines(DateTime, Sub_metering_3,  col = 'Blue')
 })
